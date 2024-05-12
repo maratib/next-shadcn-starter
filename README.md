@@ -1,4 +1,4 @@
-# Nest.js Shadcn Starter
+# Next.js Shadcn Starter
 
 ```bash
 npx shadcn-ui@latest add button
